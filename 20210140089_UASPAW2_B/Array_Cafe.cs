@@ -217,7 +217,7 @@ namespace UAS_PAW_CAFE
         }
         static void Main(string[] args)
         {
-            ///<summary> Memanggil kelas KasirCafe</summary>
+            ///<summary> Memanggil kelas KasirCafe di file lain</summary>
             Array_Cafe KasirB = new Array_Cafe();
             KasirB.KasirCafe();
         }
