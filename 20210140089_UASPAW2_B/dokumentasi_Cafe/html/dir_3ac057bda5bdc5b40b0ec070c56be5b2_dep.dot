@@ -1,0 +1,16 @@
+digraph "Kasir_Cafe/Kasir_Cafe"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_76a1956b77c2538235779dc0baf8ad4c {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="Kasir_Cafe", fontname="Helvetica", fontsize="10", URL="dir_76a1956b77c2538235779dc0baf8ad4c.html"]
+  subgraph clusterdir_3ac057bda5bdc5b40b0ec070c56be5b2 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,bold,", label="", fontname="Helvetica", fontsize="10", URL="dir_3ac057bda5bdc5b40b0ec070c56be5b2.html"]
+    dir_3ac057bda5bdc5b40b0ec070c56be5b2 [shape=plaintext, label="Kasir_Cafe"];
+  dir_9f990e3d7950f5da09bab9782a50fc2f [shape=box, label="obj", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_9f990e3d7950f5da09bab9782a50fc2f.html"];
+  dir_2cadf8b8bdb99b85adf7d90b5946434e [shape=box, label="Properties", style="filled,", fillcolor="#a2b4d6", color="grey25", URL="dir_2cadf8b8bdb99b85adf7d90b5946434e.html"];
+  }
+  }
+}
